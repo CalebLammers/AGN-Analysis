@@ -1,1 +1,1 @@
-# AGN-Analysis
+Repository for work on identifying and studying galaxies hosting AGNs
